@@ -5,7 +5,7 @@ Three sets of folder are available related to this prject.  Inside each folder a
   ## Algorithm
 This folder containts the recovery fractions per magntidue and effective radius bin for the algorithm alone.
 
-  ## Full_Sample
+  ## Full-Sample
 This foder ciontains the files with the recovery fraction from the aglorithm combine with the visual inspection recovery rate for the full sample
 
   ## High-Likelihood
