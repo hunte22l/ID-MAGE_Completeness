@@ -15,4 +15,6 @@ Additional information about the number of galaxies injected per size and magnit
 This folder contains the files with the recovery fraction from the aglorithm combined with the visual inspection recovery rate for the full sample
 
   ## High-Likelihood
-This fo;der contains the files with the recovery fraction from the aglorithm combined with the visual inspection recovery rate for objects that were visually rated to be high-likelihood satellites
+This folder contains the files with the recovery fraction from the aglorithm combined with the visual inspection recovery rate for objects that were visually rated to be high-likelihood satellites
+
+[![DOI](https://zenodo.org/badge/947460789.svg)](https://doi.org/10.5281/zenodo.15498887)
